@@ -1,0 +1,7 @@
+streamlit 
+transformers
+json 
+spacy
+google.generativeai 
+PyPDF2
+torch
